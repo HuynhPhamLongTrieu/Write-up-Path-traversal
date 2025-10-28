@@ -9,13 +9,13 @@ Khai thác lỗ hổng Path Traversal tại tham số filename để đọc nộ
 ### 🔍 Quá trình thực hiện
 
 #### 🔸 Bước 1: Truy cập trang lab, mở Burp Suite để bắt request liên quan hình ảnh (điều chỉnh Filter settings để thấy các request tĩnh).
-Giao diện Burp suite
+&nbsp&nbsp&nbsp&nbspGiao diện Burp suite
 <div align="center">
   <img src="img/anh2.jpg" alt="Minh họa" width="600">
   <br>
   <em>Hình 2: Minh họa kết quả</em>
 </div>
-Điều chỉnh filter trong Burp suite
+&nbsp&nbsp&nbsp&nbspĐiều chỉnh filter trong Burp suite
 <div align="center">
   <img src="img/anh3.jpg" alt="Minh họa" width="600">
   <br>
