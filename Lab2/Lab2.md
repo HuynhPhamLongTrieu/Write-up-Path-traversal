@@ -15,6 +15,7 @@ Giao diện Burp suite
   <br>
   <em>Hình 2: Minh họa kết quả</em>
 </div>
+
 #### 🔸 Bước 2: Xác định tham số dễ tổn thương
 - ✅ Tìm request chứa ảnh bất kì: GET /image?filename=6.jpg HTTP/2.
 - ✅ Thực hiện: chỉnh sửa tham số filename trong URL để truy xuất tệp hệ thống bằng đường dẫn tuyệt đối.
