@@ -20,9 +20,9 @@ Giao diện Burp suite
 - ✅ Thực hiện: chỉnh sửa tham số filename trong URL để truy xuất tệp hệ thống bằng đường dẫn tuyệt đối.
 GET /image?filename=/etc/passwd HTTP/2
 <div align="center">
-  <img src="img/anh5.jpg" alt="Minh họa" width="600">
+  <img src="img/anh9.jpg" alt="Minh họa" width="600">
   <br>
-  <em>Hình 9: Kết quả trả về</em>
+  <em>Hình 3: Kết quả trả về</em>
 </div>
 
 > **📊 Kết quả:**
